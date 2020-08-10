@@ -1,2 +1,4 @@
 # Weather
-Webpage displaying the current weather of the city.
+Naive attempt to display the current weather of the city.
+
+Done using HTML,CSS,JS
